@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1d89b9f8-3410-487c-89ab-4c8062be82db
+      url: 'https://quartopub.com/sites/jpmcampino/testwebsite'
